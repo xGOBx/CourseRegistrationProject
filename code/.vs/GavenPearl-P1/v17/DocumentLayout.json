@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{696BA92C-EB5D-4F54-A28F-7CAC33321C04}|GavenPearl-P1\\GavenPearl-P1.csproj|d:\\school\\comp4300 application development ii\\gavenpearl-p1\\gavenpearl-p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696BA92C-EB5D-4F54-A28F-7CAC33321C04}|GavenPearl-P1\\GavenPearl-P1.csproj|solutionrelative:gavenpearl-p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696BA92C-EB5D-4F54-A28F-7CAC33321C04}|GavenPearl-P1\\GavenPearl-P1.csproj|d:\\school\\comp4300 application development ii\\gavenpearl-p1\\gavenpearl-p1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696BA92C-EB5D-4F54-A28F-7CAC33321C04}|GavenPearl-P1\\GavenPearl-P1.csproj|solutionrelative:gavenpearl-p1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ADCC07-6D4C-4DAD-8575-70BC10A2ADB4}|CourseRegistrationTest\\CourseRegistrationTest.csproj|d:\\school\\comp4300 application development ii\\gavenpearl-p1\\courseregistrationtest\\controllers\\coursescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ADCC07-6D4C-4DAD-8575-70BC10A2ADB4}|CourseRegistrationTest\\CourseRegistrationTest.csproj|solutionrelative:courseregistrationtest\\controllers\\coursescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696BA92C-EB5D-4F54-A28F-7CAC33321C04}|GavenPearl-P1\\GavenPearl-P1.csproj|d:\\school\\comp4300 application development ii\\gavenpearl-p1\\gavenpearl-p1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696BA92C-EB5D-4F54-A28F-7CAC33321C04}|GavenPearl-P1\\GavenPearl-P1.csproj|solutionrelative:gavenpearl-p1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696BA92C-EB5D-4F54-A28F-7CAC33321C04}|GavenPearl-P1\\GavenPearl-P1.csproj|d:\\school\\comp4300 application development ii\\gavenpearl-p1\\gavenpearl-p1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696BA92C-EB5D-4F54-A28F-7CAC33321C04}|GavenPearl-P1\\GavenPearl-P1.csproj|solutionrelative:gavenpearl-p1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ADCC07-6D4C-4DAD-8575-70BC10A2ADB4}|CourseRegistrationTest\\CourseRegistrationTest.csproj|d:\\school\\comp4300 application development ii\\gavenpearl-p1\\courseregistrationtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ADCC07-6D4C-4DAD-8575-70BC10A2ADB4}|CourseRegistrationTest\\CourseRegistrationTest.csproj|solutionrelative:courseregistrationtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesControllerTests.cs",
+              "DocumentMoniker": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\CourseRegistrationTest\\Controllers\\CoursesControllerTests.cs",
+              "RelativeDocumentMoniker": "CourseRegistrationTest\\Controllers\\CoursesControllerTests.cs",
+              "ToolTip": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\CourseRegistrationTest\\Controllers\\CoursesControllerTests.cs",
+              "RelativeToolTip": "CourseRegistrationTest\\Controllers\\CoursesControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:48:25.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\GavenPearl-P1\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "GavenPearl-P1\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\GavenPearl-P1\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "GavenPearl-P1\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAiwBoBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:48:25.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\GavenPearl-P1\\Program.cs",
+              "RelativeDocumentMoniker": "GavenPearl-P1\\Program.cs",
+              "ToolTip": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\GavenPearl-P1\\Program.cs",
+              "RelativeToolTip": "GavenPearl-P1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:48:25.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\GavenPearl-P1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "GavenPearl-P1\\Models\\Course.cs",
+              "ToolTip": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\GavenPearl-P1\\Models\\Course.cs",
+              "RelativeToolTip": "GavenPearl-P1\\Models\\Course.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:48:25.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\CourseRegistrationTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CourseRegistrationTest\\UnitTest1.cs",
+              "ToolTip": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\CourseRegistrationTest\\UnitTest1.cs",
+              "RelativeToolTip": "CourseRegistrationTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:48:25.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\GavenPearl-P1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GavenPearl-P1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\School\\COMP4300 Application Development II\\GavenPearl-P1\\GavenPearl-P1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GavenPearl-P1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:48:25.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GavenPearl-P1.props" />
+</Project>

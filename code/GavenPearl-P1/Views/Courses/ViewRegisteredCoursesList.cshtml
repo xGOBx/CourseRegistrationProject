@@ -1,0 +1,42 @@
+﻿@model List<GavenPearl_P1.Models.Course>
+
+<h2>Registered Courses</h2>
+
+@if (Model.Count == 0)
+{
+    <p>No courses added to the list.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Course Code</th>
+            <th>Name</th>
+            <th>Capacity</th>
+            <th>Subject</th>
+            <th>Action</th> 
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@course.CourseCode</td>
+                <td>@course.Name</td>
+                <td>@course.Capacity</td>
+                <td>@course.Subject</td>
+                <td>
+                    <form asp-action="DeleteFromCourseList" method="post">
+                        <input type="hidden" name="id" value="@course.CourseId" />
+                        <button type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+
+
+
+}
